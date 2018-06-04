@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "millzhang-blog",
     "title": "millzhang blog",
     "author": "millzhang <876753183@qq.com>",
@@ -9,6 +10,18 @@
         "url": "https://github.com/millzhang/millzhang.github.io"
     },
     "bugs": "https://github.com/millzhang/millzhang.github.io/issues",
+=======
+    "name": "hux-blog",
+    "title": "Hux Blog",
+    "author": "Hux <huxpro@gmail.com>",
+    "version": "1.7.0",
+    "homepage": "http://huxpro.github.io",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Huxpro/huxpro.github.io"
+    },
+    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+>>>>>>> 6acc4c072279f79607874e24522bffdef7c2c340
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
