@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "Mister.Zhang",
-  "short_name": "ZY",
-=======
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
->>>>>>> 6acc4c072279f79607874e24522bffdef7c2c340
+  "name": "Mill's Blog",
+  "short_name": "Mill's Blog",
   "description": "About an engineer & designer who loves web.",
   "icons": [{
     "src": "icons/128.png",
