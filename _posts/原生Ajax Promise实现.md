@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "原生Ajax Promise实现"
-subtitle:   ""
+title:      原生Ajax Promise实现
+subtitle:   
 date:       2019-6-14
-author:     "millzhang"
+author:     millzhang
 catalog: true
 header-style: text
 tags:
